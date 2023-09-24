@@ -12,3 +12,7 @@ left pytorch model, right converted to onnx model without quantization
 
 colab for model conversion 
 https://colab.research.google.com/drive/1oCpRIkPRSYDJXjwHbV2_Ev1Clhbomm6a?usp=sharing
+
+onnx model (put it in Content/Models, but in general onnx related funcs insde PoseEstNN class, and I created NCharacter to debug the functionality, other files (ControlRig,AnimInst are experimental and mostly related to pose movement)
+https://drive.google.com/file/d/1TLeWyKgyjytdys2OejjyX2E6PiaQmr3G/view?usp=sharing
+
