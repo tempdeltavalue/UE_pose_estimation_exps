@@ -3,7 +3,7 @@ UE5, onnx, pose estimation
 
 Here's my try to understand how to use ml models inside of UE using ONNX 
 
-biggest question for now is how to move bones from code ? (for example how to pase into animinstance)
+biggest question for now is how to move bones from code ? (for example how to pass the pose from cpp into animinstance)
 https://forums.unrealengine.com/t/how-to-load-and-move-skeleton-asset-in-cpp-code/1284585
 
 result of onnx converted model inside Unreal engine (check folder Content/Models)
