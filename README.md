@@ -6,7 +6,8 @@ Here's my try to understand how to use ml models inside of UE using ONNX
 biggest question for now is how to move bones from code ? (for example how to pase into animinstance)
 https://forums.unrealengine.com/t/how-to-load-and-move-skeleton-asset-in-cpp-code/1284585
 
-left pytorch model, right converted to onnx model without quantization
+result of onnx converted model inside Unreal engine (check folder Content/Models)
+left pytorch model, right converted to onnx model without quantization 
 ![imgonline-com-ua-twotoone-hIkCAebGqX25](https://github.com/tempdeltavalue/UE_pose_estimation_exps/assets/36921178/3e54d845-e5e5-4a86-90e3-e2c8a441d723)
 
 colab for model conversion 
