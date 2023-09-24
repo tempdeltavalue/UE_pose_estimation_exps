@@ -16,3 +16,7 @@ https://colab.research.google.com/drive/1oCpRIkPRSYDJXjwHbV2_Ev1Clhbomm6a?usp=sh
 onnx model (put it in Content/Models, but in general onnx related funcs inside PoseEstNN class, and I created NCharacter to debug the functionality, other files (ControlRig,AnimInst are experimental and mostly related to pose movement)
 https://drive.google.com/file/d/1TLeWyKgyjytdys2OejjyX2E6PiaQmr3G/view?usp=sharing
 
+
+
+painting:
+Christ Crucified by Diego Velázquez 
